@@ -1,12 +1,8 @@
 {
-    "configuracion": {
-        "nombre_juego": "Game-Coche",
-        "version": "1.0.0"
-    },
     "scripts": {
-        "motor_principal": "https://raw.githubusercontent.com/aminbena010-ai/Test-Data/main/main.py"
+        "motor_juego": "https://raw.githubusercontent.com/aminbena010-ai/Test-Data/main/main.py"
     },
     "assets": {
-        "readme_info": "https://raw.githubusercontent.com/aminbena010-ai/Test-Data/main/README.md"
+        "fondo_principal": "https://raw.githubusercontent.com/aminbena010-ai/Test-Data/main/README.md"
     }
 }
