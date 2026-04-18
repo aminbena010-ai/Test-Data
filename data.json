@@ -1,4 +1,5 @@
 {
+    "librerias": ["pygame", "requests"],
     "scripts": {
         "motor_juego": "https://raw.githubusercontent.com/aminbena010-ai/Test-Data/main/main.py"
     },
